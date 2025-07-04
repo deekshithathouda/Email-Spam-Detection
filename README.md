@@ -1,2 +1,2 @@
 # Email-Spam-Detection
-A Machine Learning Project "Email/SMS Spam Detection" Using Naive Bayes and SVM
+A Machine Learning Project Using Naive Bayes and SVM
